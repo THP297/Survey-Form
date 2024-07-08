@@ -1,0 +1,10 @@
+.category-column {
+    flex: 0 0 20%; /* Ensures the column takes up 20% of the width */
+    max-width: 20%;
+  }
+  
+  .question-column {
+    flex: 0 0 80%; /* Ensures the column takes up 80% of the width */
+    max-width: 80%;
+  }
+  
